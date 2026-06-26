@@ -9,14 +9,19 @@
 
 # Maven / Java
 backend/target/
-backend/.mvn/
-backend/mvnw
-backend/mvnw.cmd
+backend/.mvn/wrapper/maven-wrapper.jar
 *.class
 *.jar
 *.war
 *.nar
 *.ear
+
+# 启动脚本（开发者本地使用）
+start.cmd
+backend/run.cmd
+
+# Spring Boot 构建产物
+BOOT-INF/
 
 # JVM crash logs
 hs_err_pid*
