@@ -1,4 +1,4 @@
-﻿package com.flowsmith.entity;
+package com.flowsmith.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;

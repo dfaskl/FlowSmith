@@ -1,4 +1,4 @@
-﻿package com.flowsmith.config;
+package com.flowsmith.config;
 
 import com.flowsmith.interceptor.AuthInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;

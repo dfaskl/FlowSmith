@@ -1,4 +1,4 @@
-﻿package com.flowsmith;
+package com.flowsmith;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

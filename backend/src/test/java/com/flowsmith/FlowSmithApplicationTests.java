@@ -1,4 +1,4 @@
-﻿package com.flowsmith;
+package com.flowsmith;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

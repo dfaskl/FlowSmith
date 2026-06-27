@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.agent.tool;
+package com.flowsmith.engine.agent.tool;
 
 import com.flowsmith.engine.agent.AgentTool;
 import com.flowsmith.engine.agent.AgentToolContext;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.skill;
+package com.flowsmith.engine.skill;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyDescription;

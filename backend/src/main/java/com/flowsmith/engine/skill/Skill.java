@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.skill;
+package com.flowsmith.engine.skill;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 import com.alibaba.fastjson2.JSONObject;
 import org.junit.jupiter.api.Test;

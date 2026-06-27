@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 /**
  * Runtime API configuration resolved from a workflow node and optional global config.

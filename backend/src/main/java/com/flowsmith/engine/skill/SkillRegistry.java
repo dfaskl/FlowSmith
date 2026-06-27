@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.skill;
+package com.flowsmith.engine.skill;
 
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;

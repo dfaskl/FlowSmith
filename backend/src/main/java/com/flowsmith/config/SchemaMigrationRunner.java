@@ -1,4 +1,4 @@
-﻿package com.flowsmith.config;
+package com.flowsmith.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.ApplicationArguments;

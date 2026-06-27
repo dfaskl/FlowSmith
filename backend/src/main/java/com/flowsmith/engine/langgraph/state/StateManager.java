@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.langgraph.state;
+package com.flowsmith.engine.langgraph.state;
 
 import com.flowsmith.engine.langgraph.WorkflowState;
 import lombok.extern.slf4j.Slf4j;

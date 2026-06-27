@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.flowsmith.entity.NodeDefinition;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.config;
+package com.flowsmith.config;
 
 import io.minio.MinioClient;
 import lombok.Data;

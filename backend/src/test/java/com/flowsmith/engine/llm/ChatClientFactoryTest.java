@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.llm;
+package com.flowsmith.engine.llm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.ai.chat.client.ChatClient;

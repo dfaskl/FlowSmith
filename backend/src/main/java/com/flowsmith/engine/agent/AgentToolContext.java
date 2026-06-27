@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.agent;
+package com.flowsmith.engine.agent;
 
 import com.flowsmith.engine.model.WorkflowNode;
 

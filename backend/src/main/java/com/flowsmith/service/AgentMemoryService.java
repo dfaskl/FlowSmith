@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;

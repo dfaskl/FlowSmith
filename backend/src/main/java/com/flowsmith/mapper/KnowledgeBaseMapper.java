@@ -1,4 +1,4 @@
-﻿package com.flowsmith.mapper;
+package com.flowsmith.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.flowsmith.entity.KnowledgeBase;

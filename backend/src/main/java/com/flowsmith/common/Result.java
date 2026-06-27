@@ -1,4 +1,4 @@
-﻿package com.flowsmith.common;
+package com.flowsmith.common;
 
 import lombok.Data;
 

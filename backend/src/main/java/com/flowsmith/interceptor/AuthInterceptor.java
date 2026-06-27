@@ -1,4 +1,4 @@
-﻿package com.flowsmith.interceptor;
+package com.flowsmith.interceptor;
 
 import com.flowsmith.service.AuthService;
 import jakarta.servlet.http.HttpServletRequest;

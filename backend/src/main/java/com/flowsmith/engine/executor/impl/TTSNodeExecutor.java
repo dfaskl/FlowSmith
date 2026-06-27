@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.executor.impl;
+package com.flowsmith.engine.executor.impl;
 
 import com.alibaba.dashscope.aigc.multimodalconversation.AudioParameters;
 import com.alibaba.dashscope.aigc.multimodalconversation.MultiModalConversation;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.executor;
+package com.flowsmith.engine.executor;
 
 import com.flowsmith.dto.ExecutionEvent;
 import com.flowsmith.engine.model.WorkflowNode;

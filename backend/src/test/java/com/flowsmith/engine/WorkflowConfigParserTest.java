@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine;
+package com.flowsmith.engine;
 
 import com.flowsmith.engine.model.WorkflowConfig;
 import org.junit.jupiter.api.Test;

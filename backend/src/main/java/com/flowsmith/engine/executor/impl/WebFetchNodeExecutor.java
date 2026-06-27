@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.executor.impl;
+package com.flowsmith.engine.executor.impl;
 
 import com.flowsmith.engine.model.WorkflowNode;
 import org.springframework.stereotype.Component;

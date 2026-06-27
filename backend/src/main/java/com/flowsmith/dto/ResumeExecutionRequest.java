@@ -1,4 +1,4 @@
-﻿package com.flowsmith.dto;
+package com.flowsmith.dto;
 
 import lombok.Data;
 import java.util.Map;

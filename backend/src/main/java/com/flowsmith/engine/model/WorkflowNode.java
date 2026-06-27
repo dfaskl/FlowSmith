@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.model;
+package com.flowsmith.engine.model;
 
 import lombok.Data;
 import java.util.Map;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 import com.flowsmith.entity.KnowledgeBase;
 import com.flowsmith.entity.KnowledgeChunk;

@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.dag;
+package com.flowsmith.engine.dag;
 
 import com.flowsmith.engine.model.WorkflowConfig;
 import com.flowsmith.engine.model.WorkflowEdge;

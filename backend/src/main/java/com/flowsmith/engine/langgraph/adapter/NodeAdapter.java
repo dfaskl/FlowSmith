@@ -1,4 +1,4 @@
-﻿package com.flowsmith.engine.langgraph.adapter;
+package com.flowsmith.engine.langgraph.adapter;
 
 import com.flowsmith.dto.ExecutionEvent;
 import com.flowsmith.engine.executor.NodeExecutor;

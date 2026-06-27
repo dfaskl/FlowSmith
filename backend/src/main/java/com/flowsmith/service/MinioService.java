@@ -1,4 +1,4 @@
-﻿package com.flowsmith.service;
+package com.flowsmith.service;
 
 import com.flowsmith.config.MinioConfig;
 import io.minio.BucketExistsArgs;
